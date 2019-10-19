@@ -1,4 +1,8 @@
-# Acrobot-PPO
+# Youtube LunarLander-v0
+
+https://www.youtube.com/watch?v=1wd6k2cU168
+
+# PPO-gym
 
 Acrobot from GYM : https://gym.openai.com/
 
@@ -10,9 +14,3 @@ Tensorflow 1.13.1
 
 **Launch:**
 python train.py
-
-**Tensorboard**
-
-<img src="https://github.com/Gouet/Acrobot-PPO/blob/master/entropy.png" width="400" height="300">
-
-<img src="https://github.com/Gouet/Acrobot-PPO/blob/master/rewards.png" width="400" height="300">
